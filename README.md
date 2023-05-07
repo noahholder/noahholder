@@ -10,23 +10,13 @@
 
 <h2>👨🏼‍💼 About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on completing my CompTIA Security+ Certification.
+- 📫 How to reach me: Email - holder.noah17@gmail.com 
+- ⚡ Fun fact: I have been a Server/Bartender for the past 5 years and developed new soft skills that will benefit my future opportunities in Cybersecurity.
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="NoahHolder | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="NoahHolder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="NoahHolder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="NoahHolder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/noahholder17/
 
