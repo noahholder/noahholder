@@ -6,7 +6,7 @@
 
 <h2>📃 Certifications</h2>
 
- - [CompTIA Security+]
+ - [CompTIA Security+] Test Score: TBD
 
 <h2>👨🏼‍💼 About Me</h2>
 
