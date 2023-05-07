@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/LABURL)
+  - [Capstone Project: The Importance of Company Digital Security](https://github.com/LABURL)
 
 <h2>📃 Certifications</h2>
 
