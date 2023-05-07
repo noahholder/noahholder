@@ -4,6 +4,8 @@
 
 - <b>Capstone Project</b>
   - [The Importance of Company Digital Security](https://github.com/noahholder/Capstone-Project)
+- <b>Python</b>
+  - [Cleaning Data (NormOut.txt)]()
 
 <h2>📃 Certifications</h2>
 
