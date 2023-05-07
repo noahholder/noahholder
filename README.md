@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Capstone Project: The Importance of Company Digital Security](https://github.com/noahholder/Capstone-Project)
+- <b>Capstone Project</b>
+  - [The Importance of Company Digital Security](https://github.com/noahholder/Capstone-Project)
 
 <h2>📃 Certifications</h2>
 
