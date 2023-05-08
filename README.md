@@ -7,6 +7,8 @@
 - <b>Python</b>
   - [Cleaning Data (NormOut.txt)](https://github.com/noahholder/Cleaning-Data-NormOut.txt)
   - [Extracting and Cleaning Data](https://github.com/noahholder/Extracting-Cleaning-Data)
+- <b>WireShark</b>
+  - [Analyzing Traffic Using a Sniffer](https://github.com/noahholder/Analyzing-Traffic-Using-Wireshark)
 
 <h2>📃 Certifications</h2>
 
