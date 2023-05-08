@@ -6,6 +6,7 @@
   - [The Importance of Company Digital Security](https://github.com/noahholder/Capstone-Project)
 - <b>Python</b>
   - [Cleaning Data (NormOut.txt)](https://github.com/noahholder/Cleaning-Data-NormOut.txt)
+  - [Extracting and Cleaning Data](https://github.com/noahholder/)
 
 <h2>📃 Certifications</h2>
 
